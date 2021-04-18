@@ -6,5 +6,6 @@
   :dependencies [[org.clojure/clojure "1.10.1"]]
   :main ^:skip-aot clojure-starter.core
   :target-path "target/%s"
+  :plugins [[lein-auto "0.1.2"]]
   :profiles {:uberjar {:aot :all
                        :jvm-opts ["-Dclojure.compiler.direct-linking=true"]}})
