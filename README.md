@@ -13,10 +13,10 @@ Optional:
 
 ```shell
 # run all tests. You should see one failing test that you can fix and re-run tests to go green.
-$ lein test
+$ lein kaocha unit
 
 # run tests automatically on change
-$ lein auto test
+$ lein auto kaocha unit
 
 # launch a Read-Eval-Print-Loop (REPL)
 $ lein repl
