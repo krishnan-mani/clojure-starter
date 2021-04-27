@@ -22,6 +22,8 @@ $ lein auto kaocha unit
 $ lein repl
 ```
 
+[![Clojure CI](https://github.com/krishnan-mani/clojure-starter/actions/workflows/clojure.yml/badge.svg)](https://github.com/krishnan-mani/clojure-starter/actions/workflows/clojure.yml)
+
 ## License
 
 Copyright © 2021 FIXME
