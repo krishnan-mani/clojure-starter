@@ -8,4 +8,4 @@
 
 
 (deftest ^:kaocha/pending another-test
-  (is (= 3 (my-add 1 2))))
+  (is (= 73 (my-add 1 2))))
