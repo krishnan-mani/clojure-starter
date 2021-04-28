@@ -7,7 +7,11 @@
   (is (= true (foo)))
   )
 
-(deftest ^:kaocha/skip example-skipped-test
-  (is (= 11 (+ 1 2)))
+(deftest ^:skip example-skipped-test
+  (is (= 47 (+ 1 2)))
   )
 
+; change the meta to ":only" to focus on the test below
+(deftest ^:not-only example-focus-test
+  (is (= 21 (+ 7 3)))
+  )
