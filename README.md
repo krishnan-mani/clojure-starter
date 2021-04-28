@@ -3,7 +3,9 @@ Clone and use this to write some Clojure code, the TDD way!
 
 ## Installation
 
-Minimum: Java (get with [sdkman](https://sdkman.io/))
+- pre-requisite: Java (get with [sdkman](https://sdkman.io/))
+- [Get Clojure](https://clojure.org/guides/getting_started)
+- alternatively, try [repl.it](https://repl.it/languages/clojure) from anywhere
 
 Optional:
 - [Intellij IDEA](https://www.jetbrains.com/idea/download)
