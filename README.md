@@ -1,15 +1,5 @@
 # clojure-starter
-Clone and use this to write some Clojure code, the TDD way!
-
-## Installation
-
-- pre-requisite: Java (get with [sdkman](https://sdkman.io/))
-- [Get Clojure](https://clojure.org/guides/getting_started)
-- alternatively, try [repl.it](https://repl.it/languages/clojure) from anywhere
-
-Optional:
-- [Intellij IDEA](https://www.jetbrains.com/idea/download)
-- Cursive plugin and [licence](https://cursive-ide.com/buy.html)
+Clone and use this to write some Clojure code, the TDD way! You can now open this project in a VS Code workspace on [Gitpod](https://gitpod.io) and start coding right away.
 
 ## Usage
 
