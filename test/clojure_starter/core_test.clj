@@ -12,11 +12,8 @@
       10, 4 6
       13, 6 7))
 
-(deftest ^:kaocha/pending another-test
-  (is (= 73 (my-add 1 2))))
-
 (deftest ^:skip example-skipped-test
-  (is (= 47 (+ 1 2))))
+  (is (= 3 (+ 1 2))))
 
 ; change the meta to ":only" to focus on the test below
 (deftest ^:not-only example-focus-test
