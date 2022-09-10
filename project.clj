@@ -7,7 +7,7 @@
   :main ^:skip-aot clojure-starter.core
   :target-path "target/%s"
   :plugins [[lein-auto "0.1.3"]]
-  :profiles {:dev     {:dependencies [[lambdaisland/kaocha "1.0.829"]]}
+  :profiles {:dev     {:dependencies [[lambdaisland/kaocha "1.69.1069"]]}
              :uberjar {:aot      :all
                        :jvm-opts ["-Dclojure.compiler.direct-linking=true"]}
              }
